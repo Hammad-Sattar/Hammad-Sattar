@@ -11,8 +11,8 @@
 
 ## 🎯 About Me
 
-- 🔭 Currently working as **DevOps Engineer** at **CloudQuik**
-- 👨‍💻 Previously worked as **.NET Developer** at **MagDynamics**
+- 🔭 Currently working as **DevOps Engineer**
+- 👨‍💻 Previously worked as **.NET Developer**
 - ☁️ **Microsoft Azure** certified professional
 - ⚡ Passionate about **cloud automation** and **scalable infrastructure**
 - 🚀 Building robust **CI/CD pipelines** and **microservices architectures**
