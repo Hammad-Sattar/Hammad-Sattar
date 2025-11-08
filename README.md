@@ -3,8 +3,9 @@
 <h4 align="center">From Islamabad, Pakistan 🇵🇰</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Cloud+Enthusiast;Automation+Expert;Infrastructure+as+Code;Microservices+Architecture;CI%2FCD+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Aspiring+.NET+Backend+Developer;C%23+%7C+ASP.NET+Core+%7C+Entity+Framework;API+Development+%26+Integration;DevOps+%7C+Azure+%7C+Terraform;CI%2FCD+Pipelines+%7C+Docker+%7C+Kubernetes;Clean+Code+%26+Problem+Solving" alt="Typing SVG" />
 </p>
+
 
 ---
 
